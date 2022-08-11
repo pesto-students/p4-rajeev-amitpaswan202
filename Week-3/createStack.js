@@ -6,6 +6,7 @@ function createStack() {
       },
       pop() {
         return items.pop();
+          
       },
     });
   }
