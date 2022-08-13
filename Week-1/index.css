@@ -1,0 +1,84 @@
+* {
+    width: auto;
+    height: auto;
+}
+.icons{
+    width: %; 
+    float:left
+
+}
+.breaf data{
+    width: 90%; 
+    float:right
+}
+.icon-bar {
+    width: 60px; 
+    background-color: rgb(214, 214, 214); 
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+}
+  .icon-bar a {
+
+    display: block;
+    padding: 20px 16px; 
+    transition: all 0.3s ease; 
+    color: rgb(15, 15, 15); 
+    font-size: 26px; 
+  }
+  
+  .icon-bar a:hover {
+    background-color: rgb(255, 255, 255); 
+  }
+  
+  .active {
+    background-color: #ffffff; 
+  }
+  .main-class{
+      height: 200px;
+      background-color: rgb(39, 35, 35);
+      display: flex;
+      /* justify-content: space-between; */
+      
+    
+  }
+  img {
+    width: 150px;
+    padding-left: 43px;
+    padding-top: 22px;
+}
+.meta{
+    
+    color: white;
+    padding-left: 59px;
+}
+h5 {
+    line-height: 1px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+  }
+  
+  th, td {
+    padding: 19px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+   
+  .footer {
+    background-color: dodgerblue;
+    display: flex;
+    margin-top: 136px;
+}
+.footer img{
+    width: 108px;
+}
+.bottom-icon  .fa-fw {
+        width: 18.285714em;
+        text-align: center;
+        padding-top: 61px;
+    }
