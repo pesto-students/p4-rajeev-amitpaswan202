@@ -21,6 +21,6 @@ function memoize(fn) {
   }
   
   withTimer(() => memoizeAdd(100, 100));
-  withTimer(() => memoizeAdd(100));
+  withTimer(() => memoizeAdd(100,700));
   withTimer(() => memoizeAdd(100, 200));
   withTimer(() => memoizeAdd(100, 100));
