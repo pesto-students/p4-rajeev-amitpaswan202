@@ -1,0 +1,14 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "a",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "amit",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
