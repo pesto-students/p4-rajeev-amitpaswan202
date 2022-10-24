@@ -9,7 +9,7 @@
   "author": "amit",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.0.1"
+    "jest": "29.2.2"
 
   }
 }
